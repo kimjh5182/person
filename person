@@ -1,0 +1,3 @@
+git clone https://github.com/DeepSystems/pexels_downloader.git
+cd pexels_downloader
+docker-compose build
